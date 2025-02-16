@@ -74,7 +74,7 @@ const messageSent =  document.getElementById('thankYouMessage');
 
 const backButton = document.getElementById('backButton');
 
-messageSent.textContent = "Thank you! We have received your message. We will contact you shortly."
+messageSent.textContent = "Thank you! We've received your message. We will contact you shortly."
 
 
 
