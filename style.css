@@ -310,7 +310,7 @@ span img {
     background-color: rgb(235, 235, 235);
     padding: 20px;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 6px;
 }
 .each-box .services-list {
     display: flex;
